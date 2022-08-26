@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mausam/static/css/main.585d1bdf.chunk.css",
+    "main.js": "/mausam/static/js/main.8f384d7c.chunk.js",
+    "main.js.map": "/mausam/static/js/main.8f384d7c.chunk.js.map",
+    "runtime-main.js": "/mausam/static/js/runtime-main.16058e66.js",
+    "runtime-main.js.map": "/mausam/static/js/runtime-main.16058e66.js.map",
+    "static/js/2.b240e4b2.chunk.js": "/mausam/static/js/2.b240e4b2.chunk.js",
+    "static/js/2.b240e4b2.chunk.js.map": "/mausam/static/js/2.b240e4b2.chunk.js.map",
+    "index.html": "/mausam/index.html",
+    "static/css/main.585d1bdf.chunk.css.map": "/mausam/static/css/main.585d1bdf.chunk.css.map",
+    "static/js/2.b240e4b2.chunk.js.LICENSE.txt": "/mausam/static/js/2.b240e4b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16058e66.js",
+    "static/js/2.b240e4b2.chunk.js",
+    "static/css/main.585d1bdf.chunk.css",
+    "static/js/main.8f384d7c.chunk.js"
+  ]
+}
